@@ -1,0 +1,3 @@
+import urllib.request
+	
+urllib.request.urlretrieve("https://gsf-cf.softonic.com/ba6/9a6/454f68fbd4cf49dfb6bca657f6edfd07f2/file?SD_used=0&channel=WEB&fdh=no&id_file=63552&instance=softonic_en&type=PROGRAM&Expires=1505228321&Signature=OrxKgl9gr0mvthuIEbGLhf-YKn37QgqO86Bsd0jS2phleZlhJmAwCpkPuZPW5sfVU46U0PQ2Cqouoh~MkyC-OqME5y4MZFPIsS8uzupwOby6VbpskBaN5mFAXh61hqGztfDS11DWUzpLQ4iPa9hqK5KSIN86PR43c-CuTX58Rr0_&Key-Pair-Id=APKAJUA62FNWTI37JTGQ&filename=kompozer-0.7.10-mac.dmg", "kompozer-0.7.10-mac.dmg")
